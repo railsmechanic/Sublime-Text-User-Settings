@@ -1,0 +1,6 @@
+{
+
+	"env": {
+		"GOPATH": "$HOME/Dropbox/Entwicklung/Go"
+		}
+}

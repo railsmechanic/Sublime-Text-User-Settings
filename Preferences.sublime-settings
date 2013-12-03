@@ -1,0 +1,34 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"draw_minimap_border": false,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		".gitkeep"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".gitkeep",
+		".git",
+		".bundle",
+		".svn"
+	],
+	"font_face": "Bitstream Vera Sans Mono",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

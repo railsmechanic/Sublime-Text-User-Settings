@@ -1,0 +1,85 @@
+{
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/demo":
+	[
+		"go list",
+		"GOMAXPROCS=4 go build main.go",
+		"go build main.go"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/glog":
+	[
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/lang":
+	[
+		"go test",
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/n":
+	[
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/names":
+	[
+		"go build names.go",
+		"go",
+		"GetMultipleGender",
+		"go build main.go",
+		"countryArray(query)",
+		"createNameMap",
+		"GetBulkGender",
+		"redis.Values(conn.Do(\"HMGETALL\", key))",
+		"nameData = append(nameData, data)",
+		"interface{}",
+		"data, _ := redis.Values(conn.Do(\"HMGET\", args...))",
+		"map[string][]string",
+		"args := []interface{}{interface{}(key)}",
+		"strconv.FormatUint",
+		"fmt.Println(strconv.Itoa(int(64)))",
+		"args = append(args, interface{}(\"matthias\"))",
+		"fmt.Println(country)",
+		"args := []interface{}{interface{}(\"de\"), interface{}(\"de\")}",
+		"v, r := conn.Receive()",
+		"len(data) < 0",
+		"go build redis.go",
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/namesia":
+	[
+		"go build#",
+		"go install",
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/namesia-converter":
+	[
+		"go build main.go"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/namesia/controllers":
+	[
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/namesia/data":
+	[
+		"go build",
+		"go",
+		"go clean"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/namesia/lu":
+	[
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/namesia/models":
+	[
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/redi":
+	[
+		"go build"
+	],
+	"9o.hist./Users/matthias/Dropbox/Entwicklung/Go/src/railsmechanic.de/redi/red":
+	[
+		"go build"
+	],
+	"ann": "a13.10.05-1",
+	"install_version": "r13.10.05-1",
+	"version": "r13.10.05-1"
+}
