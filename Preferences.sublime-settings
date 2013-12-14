@@ -2,6 +2,7 @@
 	"auto_complete": true,
 	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
 	"draw_minimap_border": false,
+	"show_minimap": false,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
