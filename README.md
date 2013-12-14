@@ -13,7 +13,7 @@ Go to Sublime Text 2 Packages directory:
 
 Clone the settings repository using the command below:
 
-    git clone https://github.com/railsmechanic/Sublime-Text-2-User-Settings.git "User"
+    git clone git://github.com/railsmechanic/Sublime-Text-User-Settings "User"
 
 
 
